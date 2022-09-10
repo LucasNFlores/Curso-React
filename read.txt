@@ -6,3 +6,6 @@ Seteo del entorno
 
 3- Abrir la terminal e ingresar el comando
 npx create-react-app nombre-app
+
+4- para inicializar la app de react introducir el comando:
+npm start
