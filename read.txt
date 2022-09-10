@@ -1,0 +1,8 @@
+Seteo del entorno
+
+1- instalar Node JS
+
+2- verificar la instalacion de Node JS y NPM
+
+3- Abrir la terminal e ingresar el comando
+npx create-react-app nombre-app
