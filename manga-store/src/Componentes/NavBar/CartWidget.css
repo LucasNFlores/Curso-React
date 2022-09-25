@@ -1,0 +1,10 @@
+.header_navigation--CartWidget {
+    height: 100%;
+    background-color: rgba(255, 255, 255, 0);
+}
+
+
+.header_navigation--CartWidget img {
+    max-height: 25px;
+    background-color: rgba(255, 255, 255, 0);
+}
