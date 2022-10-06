@@ -1,4 +1,4 @@
-import ItemListContainer from './Componentes/ItemListContainer/ItemListContainer';
+import ItemListContainer from './Componentes/ItemListContainer/ItemListContainer.jsx';
 import NavBar from './Componentes/NavBar/NavBar';
 
 function App() {
