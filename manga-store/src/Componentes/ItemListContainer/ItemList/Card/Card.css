@@ -1,0 +1,10 @@
+.card {
+    margin: 1vh 1vw 1vh 1vw;
+    align-items: center;
+    justify-items: center;
+}
+
+.card-image {
+    align-items: center;
+    justify-content: center;
+}

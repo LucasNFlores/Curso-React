@@ -1,13 +1,12 @@
 import "./ItemListContainer.css"
-import ItemList from "./ItemList/ItemList.jsx"
+import FlexWrapper from "./FlexWrapper/FlexWrapper.jsx"
 
 function ItemListContainer(props) {
 
     return (
         <section className="ItemlistContainer">
             <h2>{props.greeting}</h2>
-            <ItemList />
-
+            <FlexWrapper />
         </section>
     )
 }
